@@ -2,9 +2,9 @@
 
 Data & BI Analyst (Banca | Marketing | Control de Gestión)
 
-**Propuesta de valor:** traduzco datos en decisiones. Experiencia en banca (créditos, riesgo, KPIs), marketing digital (paid media, SEO) y BI (Power BI, SQL, Python).
+**Propuesta de valor:** Traduzco datos en decisiones. Experiencia en banca (créditos, riesgo, KPIs), marketing digital (paid media, SEO, Desarrollo), BI (Power BI, SQL, Python), Estadística y Machine Learning.
 
-**Stack:** SQL, Python (Pandas, NumPy), Power BI, Looker Studio, Tableau, Git/GitHub.
+**Stack:** SQL (SQLITE, MySQL, BigQuery), Python (Pandas, NumPy), RStudio (Tidyverse, Moments, GGPLOT), Power BI, Looker Studio, Tableau, , Excel, Git/GitHub.
 
 **Proyectos Destacados:**
 - [E-commerce Paid Media ROI](https://github.com/usuario/proyecto-paid-media) — Atribución, ROAS, LTV, dashboard.
