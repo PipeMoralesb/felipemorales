@@ -1,7 +1,6 @@
 # Felipe Morales
-Presentación'
 
-# Felipe Morales — Data & BI Analyst (Banca | Marketing | Control de Gestión)
+Data & BI Analyst (Banca | Marketing | Control de Gestión)
 
 **Propuesta de valor:** traduzco datos en decisiones. Experiencia en banca (créditos, riesgo, KPIs), marketing digital (paid media, SEO) y BI (Power BI, SQL, Python).
 
