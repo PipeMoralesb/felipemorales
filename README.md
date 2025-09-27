@@ -11,4 +11,4 @@ Data & BI Analyst (Banca | Marketing | Control de Gestión)
 - [Control de Gestión Retail](https://github.com/usuario/proyecto-cdg-retail) — ETL, KPIs, Power BI.
 - [Scoring simple de cobranza](https://github.com/usuario/proyecto-scoring) — features financieros + app Streamlit.
 
-**Contacto:** [LinkedIn](https://linkedin.com/in/tu-perfil) • mail@tu-dominio.cl
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/felipe-morales-benavides) • mail@tu-dominio.cl
